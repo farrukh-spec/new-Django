@@ -66,3 +66,4 @@ class Role(Log):
     class Meta:
         db_table = 'Roles'
         
+# 
